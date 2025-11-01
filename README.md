@@ -162,4 +162,5 @@ plt.show()
 <img width="973" height="778" alt="image" src="https://github.com/user-attachments/assets/f03e971a-b2c1-45e2-a3d5-11a1c26d8e5f" />
 
 # Result:
- Include your result here
+ 
+Thus, the Data Visualization using seaborn python library for the given data is implemented successfully
